@@ -28,4 +28,10 @@ anki-qa-generator/
 
 2. **Configure the API Key**
 In the code, locate the line API_KEY = "sk-xxxxxxxx" and replace it with your own API key.  
-Alternatively, consider configuring the API key as an environment variable.  
+Alternatively, consider configuring the API key as an environment variable.
+
+## Contributing
+If you have suggestions or encounter any issues, please open an issue on GitHub. Pull requests are also highly appreciated. Be sure to follow the project’s coding style and test your changes before submitting.
+
+## Contact
+For any questions or feedback, please open an issue in this repository.
