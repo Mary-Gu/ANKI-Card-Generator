@@ -13,7 +13,7 @@ This project is an automated tool that generates context-rich Q&A pairs and ANKI
 ## Repository Structure  
 anki-qa-generator/   
 ├── README.md # Project description and usage guide   
-├── LICENSE # Open-source license (e.g., MIT)   
+├── LICENSE # Open-source license (BSD-3-Clause license)   
 ├── initial_input.txt # Sample input text file   
 ├── temp/ # Folder for generated output files (e.g., Question_Output.txt, Final_Output.txt)   
 ├── ANKI_Card_Generator.py # Main program source code      
